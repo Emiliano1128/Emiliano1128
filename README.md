@@ -11,7 +11,7 @@ ___
 ### CUAL ES MI OBJETIVO?
 Mi objetivo es el de crecer y aumentar mi conocimientos, encontrar una empresa llena de proyectos que me permitan seguir avanzando en mi desarrollo como profesional para de forma reciproca devolverles servicios de alta calidad para la mejor experiencia de usuarios.
 ___
-### QUE TECNOLOGIAS USO?
+### QUE TECNOLOGÍAS USO?
 * Frontend: Javascript React Next.js CSS HTML Redux ReduxToolkit 
 * Backend: Node Express PostgreSQL Sequelize 
 * Extras: Trello Github Gitflow SCRUM Material UI SweetAlert auth0
