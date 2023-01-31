@@ -16,7 +16,7 @@ ___
 * Backend: Node Express PostgreSQL Sequelize 
 * Extras: Trello Github Gitflow SCRUM Material UI SweetAlert auth0
 ___
-### CONTACTAME
+### CONTÁCTAME
 * Email: emibrito100@icloud.com
 * Tel: +54 1128551711
 * [LINKEDIN](www.linkedin.com/in/emiliano-brito-92403a1a8)
